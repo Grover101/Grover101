@@ -41,3 +41,9 @@ Hi, I'm Grover Limachi, a Full Stack Developer and Open Source Developer🚀 fro
 <code><img title="GitHub" alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
 <code><img title="Linux" alt="linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
 </br></br>
+
+<div align="center">
+
+  ![Snake animation](https://github.com/Grover101/Grover101/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
