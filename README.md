@@ -13,7 +13,7 @@
 
 Hi, I'm Grover Limachi, a Full Stack Developer and Open Source Developer🚀 from Bolivia. <br> <br> 
 [![ProfileViews](https://komarev.com/ghpvc/?username=Grover101&color=brightgreen&style=flat-square)](https://komarev.com/ghpvc/?username=Grover101)
-<br>
+<br><br>
 [![Twitter Badge](http://img.shields.io/badge/-@GroverLimachi2-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/GroverLimachi2)](https://twitter.com/GroverLimachi2) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:limachigrover09@gmail.com)](mailto:limachigrover09@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-c14438?style=social&logo=Linkedin&logoColor=blue&link=link=https://www.linkedin.com/in/grover-limachi/)](https://www.linkedin.com/in/grover-limachi/)
