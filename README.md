@@ -47,6 +47,6 @@ Hi, I'm Grover Limachi, a Full Stack Developer and Open Source Developer🚀 fro
 
 <div align="center">
 
-  ![Snake animation](https://github.com/Grover101/Grover101/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Grover101/Grover101/blob/output/github-contribution-grid-snake-dark.svg)
   
 </div>
